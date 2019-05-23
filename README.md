@@ -7,4 +7,4 @@ Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pix
 
 The training data set, (train.csv), has 785 columns. The first column, called "label", is the digit that was drawn by the user. The rest of the columns contain the pixel-values of the associated image.
 
-We have made the classification using Random Forest Algorithm with 500 trees.
+We have made the classification using Random Forest Algorithm with 100 trees.
